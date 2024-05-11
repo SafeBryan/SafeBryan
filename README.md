@@ -14,3 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+python
+class BryanPazmino():
+    
+  def __init__(self):
+    self.name = "BryanPazmino";
+    self.username = "SafeBryan";
+    self.location = "Ecuador, Ambato";
+    self.instagram = "@b.pazmino08";
+  
+  def __str__(self):
+    return self.name
+
+if __name__ == '__main__':
+    me = BryanPazmino()
