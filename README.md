@@ -1,4 +1,5 @@
-### Hi there Im Bryan Pazmiño 👋
+### 
+Hello, I'm Bryan Pazmiño. 👋
 
 **SafeBryan/SafeBryan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
