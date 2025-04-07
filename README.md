@@ -26,7 +26,7 @@ class BryanPazmino():
     self.name = "Bryan Pazmino";
     self.username = "SafeBryan";
     self.location = "Ecuador, Ambato";
-    self.twitter = "@b.pazmino08";
+    self.instagram = "@b.pazmino08";
   def __str__(self):
     return self.name
 
