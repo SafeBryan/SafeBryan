@@ -158,23 +158,34 @@ Architecture  Modular Monolith · DTOs · Services · Clean Code
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SafeBryan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img 
+    height="180em" 
+    src="https://github-readme-stats.vercel.app/api?username=SafeBryan&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" 
+    alt="Bryan's GitHub Stats" 
+  />
 </p>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SafeBryan&layout=compact&langs_count=8&theme=tokyonight" alt="Top Languages" />
+  <img 
+    height="180em" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SafeBryan&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" 
+    alt="Bryan's Most Used Languages" 
+  />
 </p>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=SafeBryan&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img 
+    height="180em" 
+    src="https://streak-stats.demolab.com?user=SafeBryan&theme=tokyonight&hide_border=true" 
+    alt="Bryan's GitHub Streak" 
+  />
 </p>
-
 ---
 
 ## 🐍 Contribution Activity
 
 <p align="center">
-  <img src="https://github.com/SafeBryan/SafeBryan/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/SafeBryan/SafeBryan/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
 ---
