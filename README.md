@@ -159,28 +159,22 @@ Architecture  Modular Monolith · DTOs · Services · Clean Code
 
 <p align="center">
   <img 
-    height="180em" 
-    src="https://github-readme-stats.vercel.app/api?username=SafeBryan&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" 
-    alt="Bryan's GitHub Stats" 
-  />
-</p>
-
-<p align="center">
-  <img 
-    height="180em" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SafeBryan&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" 
-    alt="Bryan's Most Used Languages" 
-  />
-</p>
-
-<p align="center">
-  <img 
-    height="180em" 
-    src="https://streak-stats.demolab.com?user=SafeBryan&theme=tokyonight&hide_border=true" 
+    width="70%" 
+    src="https://streak-stats.demolab.com?user=SafeBryan&theme=tokyonight&hide_border=true&background=0D1117" 
     alt="Bryan's GitHub Streak" 
   />
 </p>
+
 ---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=SafeBryan&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15" 
+    alt="GitHub Trophies" 
+  />
+</p>
 
 ## 🐍 Contribution Activity
 
