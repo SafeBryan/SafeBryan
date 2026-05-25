@@ -185,7 +185,7 @@ Architecture  Modular Monolith · DTOs · Services · Clean Code
 ## 🐍 Contribution Activity
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SafeBryan/SafeBryan/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/SafeBryan/SafeBryan/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
 
 ---
